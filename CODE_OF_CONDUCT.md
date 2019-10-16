@@ -53,7 +53,7 @@ Project maintainers who do not follow or enforce the Code of Conduct in good fai
 
 ## Attribution [EN]
 
-This Code of Conduct is adapted from the [Contributor Covenant][https://www.contributor-covenant.org], version 1.4,
+This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org), version 1.4,
 available at [https://www.contributor-covenant.org/version/1/4/code-of-conduct.html](https://www.contributor-covenant.org/version/1/4/code-of-conduct.html)
 
 
@@ -122,4 +122,4 @@ Les responsables de projet qui ne respectent pas ou n'appliquent pas le Code de 
 
 ## Attribution [FR]
 
-Le présent Code de conduite est adapté de la version 1.4 du [Pacte du contributeur][https://www.contributor-covenant.org], disponible à l'adresse [https://www.contributor-covenant.org/fr/version/1/4/code-of-conduct.html](https://www.contributor-covenant.org/fr/version/1/4/code-of-conduct.html)
+Le présent Code de conduite est adapté de la version 1.4 du [Pacte du contributeur](https://www.contributor-covenant.org), disponible à l'adresse [https://www.contributor-covenant.org/fr/version/1/4/code-of-conduct.html](https://www.contributor-covenant.org/fr/version/1/4/code-of-conduct.html)
